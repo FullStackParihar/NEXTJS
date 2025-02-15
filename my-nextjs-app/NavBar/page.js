@@ -23,7 +23,6 @@ const navbar = () => {
                 <LInk>
                     <li>Blog</li>
                 </LInk>
-
             </ul>
 
 
