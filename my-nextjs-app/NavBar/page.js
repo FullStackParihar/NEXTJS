@@ -8,7 +8,6 @@ const navbar = () => {
                 logo@i
             </div>
             <ul>
-     
                 <LInk to="/">
                     <li>Home</li>
                 </LInk>
@@ -24,7 +23,6 @@ const navbar = () => {
                 <LInk>
                     <li>Blog</li>
                 </LInk>
-     
             </ul>
 
 
