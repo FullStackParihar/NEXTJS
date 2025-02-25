@@ -6,7 +6,7 @@ import About from "@/AboutPage/page.js";
 export default function Home() {
   return (
     <>
-       <div>
+        <div>
      <h1>this is my next app</h1>
        <Link href="/AboutPage/page.js">
           <button>
