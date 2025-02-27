@@ -8,7 +8,7 @@ export default function Home() {
     <>
          <div>
      <h1>this is my next app</h1>
-       <Link href="/AboutPage/page.js"> 
+       <Link href="/AboutPage/page.js">   
            <button> 
              About
            </button></Link>
