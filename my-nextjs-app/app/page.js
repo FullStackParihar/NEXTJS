@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
          <div>
-     <h1>this is my next app</h1> 
+     <h1>this is my next app</h1>
        <Link href="/AboutPage/page.js">   
            <button> 
              About
